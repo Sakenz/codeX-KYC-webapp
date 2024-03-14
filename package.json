@@ -2,10 +2,10 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "NA",
-  "main": "app.js",
+  "main": "backend/app.js",
   "scripts": {
-    "prod": "node app.js",
-    "dev": "nodemon app.js"
+    "prod": "node backend/app.js",
+    "dev": "nodemon backend/app.js"
   },
   "author": "",
   "license": "ISC",
