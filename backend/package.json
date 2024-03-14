@@ -4,6 +4,7 @@
   "description": "NA",
   "main": "app.js",
   "scripts": {
+    "prod": "node app.js",
     "dev": "nodemon app.js"
   },
   "author": "",
